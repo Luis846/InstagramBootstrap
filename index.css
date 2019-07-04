@@ -1,0 +1,17 @@
+body{
+    background: #eeebeb
+}
+
+.btn:focus{
+    background: rgb(197, 197, 197);
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: gray;
+}
+a,
+a:hover{
+    color: gray;
+    text-decoration: none;
+    background-color: transparent;
+}
